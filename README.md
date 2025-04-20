@@ -2,7 +2,7 @@
 
 Bu projede, farklı pirinç türlerini sınıflandırmak amacıyla bir derin öğrenme modeli geliştirilmiştir. Veri seti Kaggle ortamında sağlanmış ve model eğitimi de yine Kaggle üzerinde yapılmıştır. Proje veri ön işleme, modelleme, eğitim ve değerlendirme aşamalarından oluşmaktadır.
 
-**Pirinç Türleri:** Arborio ![accuracy_plot](arborio.png), Basmati![accuracy_plot](basmati.png), Ipsala ![accuracy_plot](ipsala.png), Jasmine![accuracy_plot](jasmine.png), Karacadag![accuracy_plot](karacadag.png)
+**Pirinç Türleri:** Arborio ![arborio](arborio.jpg), Basmati![Basmati](basmati.jpg), Ipsala ![Ipsala](ipsala.jpg), Jasmine![Jasmine](jasmine.jpg), Karacadag![Karacadag](karacadag.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ Veri setindeki resimler okunmuş ve her resim ait olduğu pirinç türüne göre
 
 Resimler 64x64 boyutuna küçültülmüş, normalleştirilmiş ve sınıflar one-hot encoding ile sayısallaştırılmıştır.
 
-![accuracy_plot](gorselonisleme.png)
+![gorselonisleme](gorselonisleme.png)
 ---
 
 ## 5. Eğitim ve Test Ayrımı
@@ -55,7 +55,7 @@ Model şu katmanlardan oluşmaktadır:
 
 Model, `adam` optimizer ve `categorical_crossentropy` kayıp fonksiyonu ile derlenmiştir.
 
-![accuracy_plot](modelkurulumu.png)
+![modelkurulumu](modelkurulumu.png)
 
 ---
 
