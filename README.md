@@ -40,6 +40,7 @@ Veri setindeki resimler okunmuş ve her resim ait olduğu pirinç türüne göre
 ## 4. Görsel Ön İşleme
 
 Resimler 64x64 boyutuna küçültülmüş, normalleştirilmiş ve sınıflar one-hot encoding ile sayısallaştırılmıştır.
+
 ![accuracy_plot](gorselonisleme.png)
 ---
 
