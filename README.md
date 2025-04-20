@@ -1,15 +1,8 @@
-
-# Derin Öğrenme Vize Projesi
-
-**Adı Soyadı:** Hamza Keleş  
-**Öğrenci Numarası:** 233302103  
-**Ders:** Derin Öğrenme  
-
 ## 1. Proje Amacı
 
 Bu projede, farklı pirinç türlerini sınıflandırmak amacıyla bir derin öğrenme modeli geliştirilmiştir. Veri seti Kaggle ortamında sağlanmış ve model eğitimi de yine Kaggle üzerinde yapılmıştır. Proje veri ön işleme, modelleme, eğitim ve değerlendirme aşamalarından oluşmaktadır.
 
-**Pirinç Türleri:** Arborio, Basmati, Ipsala, Jasmine, Karacadag
+**Pirinç Türleri:** Arborio ![accuracy_plot](arborio.png), Basmati![accuracy_plot](basmati.png), Ipsala![accuracy_plot](ipsala.png), Jasmine![accuracy_plot](jasmine.png), Karacadag![accuracy_plot](karacadag.png)
 
 ---
 
