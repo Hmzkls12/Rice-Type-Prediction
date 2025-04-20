@@ -62,6 +62,8 @@ Model şu katmanlardan oluşmaktadır:
 
 Model, `adam` optimizer ve `categorical_crossentropy` kayıp fonksiyonu ile derlenmiştir.
 
+![accuracy_plot](modelkurulumu.png)
+
 ---
 
 ## 7. Model Eğitimi
@@ -71,6 +73,8 @@ Model 5 epoch boyunca eğitilmiş ve doğrulama verisi ile başarı oranı takip
 ---
 
 ## 8. Eğitim Sonuçları
+
+![accuracy_plot](egitimsonucları.png)
 
 - Epoch 1: Accuracy: 0.8999, Val Accuracy: 0.9748  
 - Epoch 2: Accuracy: 0.9725, Val Accuracy: 0.9877  
