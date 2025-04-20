@@ -2,7 +2,7 @@
 
 Bu projede, farklı pirinç türlerini sınıflandırmak amacıyla bir derin öğrenme modeli geliştirilmiştir. Veri seti Kaggle ortamında sağlanmış ve model eğitimi de yine Kaggle üzerinde yapılmıştır. Proje veri ön işleme, modelleme, eğitim ve değerlendirme aşamalarından oluşmaktadır.
 
-**Pirinç Türleri:** Arborio ![arborio](arborio.jpg), Basmati![Basmati](basmati.jpg), Ipsala ![Ipsala](ipsala.jpg), Jasmine![Jasmine](jasmine.jpg), Karacadag![Karacadag](karacadag.jpg)
+**Pirinç Türleri:** Arborio, Basmati, Ipsala, Jasmine, Karacadag
 
 ---
 
